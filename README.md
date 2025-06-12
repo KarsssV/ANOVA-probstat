@@ -1,4 +1,4 @@
-# Analisis ANOVA dan Jenis-Jenisnya
+# ANOVA
 
 ## Pengantar ANOVA (Analysis of Variance)
 
