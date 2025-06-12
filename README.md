@@ -27,14 +27,8 @@ Digunakan ketika kita ingin menguji pengaruh **satu variabel kategorikal (faktor
 Menguji apakah **jenis pupuk** (Organik, Kimia, Campuran) memengaruhi **tinggi tanaman**.
 
 #### Model:
-\[
-Y_{ij} = \mu + \tau_i + \epsilon_{ij}
-\]
 
-- \(Y_{ij}\): Nilai pengamatan ke-j pada kelompok ke-i  
-- \(\mu\): Rata-rata keseluruhan  
-- \(\tau_i\): Efek dari kelompok ke-i  
-- \(\epsilon_{ij}\): Error acak (residual)
+![Screenshot 2025-06-12 150846](https://github.com/user-attachments/assets/2ee20579-f51a-42a6-8a05-a6a5332e48c6)
 
 ---
 
@@ -50,14 +44,8 @@ Mengukur pengaruh **jenis pupuk** dan **jenis tanaman** terhadap **tinggi tanama
 Two-way ANOVA juga bisa mengevaluasi **interaksi antara dua faktor** — apakah efek salah satu faktor tergantung pada level faktor lainnya.
 
 #### Model:
-\[
-Y_{ijk} = \mu + \alpha_i + \beta_j + (\alpha\beta)_{ij} + \epsilon_{ijk}
-\]
 
-- \(\alpha_i\): Efek dari faktor A  
-- \(\beta_j\): Efek dari faktor B  
-- \((\alpha\beta)_{ij}\): Efek interaksi antara A dan B  
-- \(\epsilon_{ijk}\): Error acak
+![Screenshot 2025-06-12 151157](https://github.com/user-attachments/assets/e0a0d73f-3a81-4b3a-8e9d-06d8f94c8f60)
 
 ---
 
