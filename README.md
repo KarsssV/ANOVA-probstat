@@ -1,4 +1,3 @@
-# ANOVA-probstat
 # Analisis ANOVA dan Jenis-Jenisnya
 
 ## Pengantar ANOVA (Analysis of Variance)
