@@ -71,6 +71,11 @@ Perluasan dari ANOVA ketika terdapat **lebih dari satu variabel dependen**.
 #### Contoh:
 Mengukur pengaruh jenis diet terhadap **berat badan** dan **kadar kolesterol** secara bersamaan.
 
+## Studi Kasus
+Contoh studi kasus dapat dilihat pada link berikut ini:
+
+[ANOVA-Colab](https://colab.research.google.com/drive/1M_FVmONHZm7K9naaBKl0rBhBBNNhAdgg?usp=sharing) 
+
 ---
 
 ## Catatan Tambahan
